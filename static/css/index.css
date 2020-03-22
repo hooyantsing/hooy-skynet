@@ -30,8 +30,8 @@
     z-index: 1;
 }
 
-.navbar{
-    margin-bottom: 0px;
+.navbar {
+    margin-bottom: 0;
 }
 
 .page-header-center {
@@ -121,4 +121,10 @@
     overflow: hidden;
 }
 
+.nucss-lb {
+    display: inline;
+    max-width: none;
+    margin-bottom: 0;
+    font-weight: 400;
+}
 
